@@ -13,6 +13,7 @@ The GUI main function resides in class `uml.UmlDiagramGeneratorGui`.
 ## Build & Run
 
 > mvn clean install
+
 > ./run.sh java.util.HashMap
 
 
