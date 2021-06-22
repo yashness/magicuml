@@ -10,6 +10,12 @@ Some example Design Patterns are in package `patterns`.
 
 The GUI main function resides in class `uml.UmlDiagramGeneratorGui`.
 
+## Build & Run
+
+> mvn clean install
+> ./run.sh java.util.HashMap
+
+
 ## Sample UML Diagrams Generated using MagicUML
 
 **Java Collections (TreeSet and HashSet)**
